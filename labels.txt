@@ -1,0 +1,5 @@
+0 Aguacate
+1 Mango
+2 Tomate
+3 Mandarina
+4 Banano
